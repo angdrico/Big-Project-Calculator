@@ -15,3 +15,6 @@ def Devide(a, b):
 
 def Mod(a, b):
     return a % b
+
+print(Mod(4, 5))
+print(Plus(4, 5))
