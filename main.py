@@ -18,3 +18,5 @@ def Mod(a, b):
 
 print(Mod(4, 5))
 print(Plus(4, 5))
+
+print(Multiply(5, 6))
