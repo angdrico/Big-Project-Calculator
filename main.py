@@ -13,5 +13,5 @@ def MultiPow(a, b):
 def Devide(a, b):
     return a / b
 
-print(Plus(1, 4))
-print(Minus(3, 7))
+def Mod(a, b):
+    return a % b
